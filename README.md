@@ -3,10 +3,10 @@
 <H2> I am a aspring Web Developer, currently studying through Code + .
  Follow me through my Coding journey as i learn and develop a new set of skills, showcasing as a progress.</H2>
  
- 🔭 I’m currently working on My HTML and CSS skills, following with JS, Django, MySQL, Node JS.
-🌱 I’m currently learning Web Development.
-👯 I’m looking for Web Development internship based out of New Zealand.
-🤔 I'm looking for opportunities which help me to showcase as well as polish my skills throughout my coding journey.
+- 🔭 I’m currently working on My HTML and CSS skills, following with JS, Django, MySQL, Node JS.
+-🌱 I’m currently learning Web Development.
+-👯 I’m looking for Web Development internship based out of New Zealand.
+-🤔 I'm looking for opportunities which help me to showcase as well as polish my skills throughout my coding journey.
 
 <h2>Currently Projects :</h2>
  
