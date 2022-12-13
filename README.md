@@ -1,7 +1,14 @@
 <H1> 👋 Kia Ora, I’m @codewithace - (Asher) </H1>
  
-<H2> I am a aspring Web Developer, currently studying through Code + .
+<H2> I am a aspring Web Developer, currently studying through Code + .<br>
  Follow me through my Coding journey as i learn and develop a new set of skills, showcasing as a progress.</H2>
+ 
+ ---
+ 
+<a href="https://codepen.io/_AC3/full/eYKaXKZ/a788ebe2c2dbf8db31b84c2854fb8086">Portfolio via CodePen</a>
+
+---
+
  
 - 🔭 I’m currently working on My HTML and CSS skills, following with JS, Django, MySQL, Node JS.
 - 🌱 I’m currently learning Web Development.
