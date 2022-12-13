@@ -5,7 +5,7 @@
  
  ---
  
-<a href="https://codepen.io/_AC3/full/eYKaXKZ/a788ebe2c2dbf8db31b84c2854fb8086"><h3>Portfolio via CodePen</h3></a>
+<h3><a href="https://codepen.io/_AC3/full/eYKaXKZ/a788ebe2c2dbf8db31b84c2854fb8086">Portfolio via CodePen</a></h3>
 
 ---
 
