@@ -19,9 +19,11 @@
 - 👯 I’m looking for Web Development internship based out of New Zealand.
 - 🤔 I'm looking for opportunities which help me to showcase as well as polish my skills throughout my coding journey.
 
-<h2>Currently Projects :</h2>
+<h2>Current Projects :</h2>
  
  - First Project - Static Front End Project #1 - showcasing HTML , CSS - Vector Trade School , showcasing skills i have learnt throughout my FX/Crypto Trading Career
+ - HG. Moko - Front End Dev Only
+ - Custom Indicator via PineScript
  
  <h1>Follow me On : </h1>
 Follow me on : <br><br>
