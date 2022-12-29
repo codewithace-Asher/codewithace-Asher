@@ -6,7 +6,9 @@
  ---
  
 
-<h3><a href="https://codewithace-asher.github.io/portfolio.github.io/" target="_blank">>>> Portfolio <<< </a></h3>
+<h3><a href="https://codewithace-asher.github.io/portfolio.github.io/" target="_blank">>>> Portfolio <<< </a></h3><br><br>
+
+![screenshot](https://github.com/codewithace-Asher/portfolio.github.io/blob/a87629f7b0e780aa43b11c338f00aa324d695017/codewithace-screenshot.jpg)<br><br>
 
 
 ---
@@ -19,7 +21,14 @@
 
 <h2>Currently Projects :</h2>
  
- - First Project - static-front-end-project - showcasing HTML , CSS - Vector Trade School , showcasing skills i have learnt throughout my FX/Crypto Trading Career
+ - First Project - Static Front End Project #1 - showcasing HTML , CSS - Vector Trade School , showcasing skills i have learnt throughout my FX/Crypto Trading Career
+ 
+ <h1>Follow me On : </h1>
+Follow me on : <br>
+<a href="https://codepen.io/_AC3" target="blank">CodePen</a><br>
+<a href="https://github.com/codewithace-Asher" target="blank">Github</a><br>
+<a href="https://www.linkedin.com/in/codewithace-asher/" target="blank">Linkedin</a><br>
+<a href="https://twitter.com/asher_dev_" target="blank">Twitter</a><br>
  
  <h3>Nga Mihi</h3>
  
