@@ -1,9 +1,9 @@
-<h1 align="center">Kia Ora ??, I'm codewithace - (Asher)</h1>
-<h3 align="center">I am a aspring Web Developer, currently studying through Code + . Follow me through my Coding journey as i learn and develop a new set of skills, showcasing as a progress.</h3>
+<h1 align="center">Kia Ora , I'm codewithace - (Asher)</h1>
+<h3 align="center">I am a aspring Web Developer, currently studying through Code + . Follow me through my Coding journey as i **Learn and Develop** a new set of skills, showcasing as a progress.</h3>
 
 <p align="left"> <a href="https://twitter.com/asher_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/asher_dev_?logo=twitter&style=for-the-badge" alt="asher_dev_" /></a> </p>
 
-- I’m currently working on [First Project - Static Front End Project #1](- showcasing HTML , CSS - Vector Trade School , showcasing skills i have learnt throughout my FX/Crypto Trading Career)
+- I’m currently working on [First Project - Static Front End Project #1](showcasing HTML , CSS - Vector Trade School , showcasing skills i have learnt throughout my FX/Crypto Trading Career)
 
 - I’m currently learning **Web Development. ( Fullstack Developer)**
 
