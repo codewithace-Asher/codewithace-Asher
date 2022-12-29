@@ -6,12 +6,11 @@
  ---
  
 
-<div align="centre">
-	<h3><a href="https://codewithace-asher.github.io/portfolio.github.io/" target="_blank"><p align="centre">>>> Portfolio <<<</p></a></h3><br><br>
+<h3><a href="https://codewithace-asher.github.io/portfolio.github.io/" target="_blank"><p align="centre">>>> Portfolio <<<</p></a></h3><br><br>
 
 ![screenshot](https://github.com/codewithace-Asher/portfolio.github.io/blob/a87629f7b0e780aa43b11c338f00aa324d695017/codewithace-screenshot.jpg)<br><br>
 
-</div>
+
 ---
 
  
