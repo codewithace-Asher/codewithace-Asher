@@ -1,4 +1,4 @@
-![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)
+![screenshot](https://github.com/codewithace-Asher/codewithace-Asher/blob/b510a281852852d79d023025c7ef2aab0f3e5320/Blue%20Yellow%20Professional%20Personal%20Profile%20Linkedin%20Banner.png)<br>
 <h1 align="center">Kia Ora , I'm codewithace - (Asher)</h1>
 <h3 align="center">I am a aspring Web Developer, currently studying through Code + . Follow me through my Coding journey as i Learn and Develop a new set of skills, showcasing as a progress.</h3>
 
