@@ -1,37 +1,30 @@
-<H1> ðŸ‘‹ Kia Ora, Iâ€™m @codewithace - (Asher) </H1>
- 
-<H2> I am a aspring Web Developer, currently studying through Code + .<br>
- Follow me through my Coding journey as i learn and develop a new set of skills, showcasing as a progress.</H2>
- 
- ---
- 
+<h1 align="center">Kia Ora ??, I'm codewithace - (Asher)</h1>
+<h3 align="center">I am a aspring Web Developer, currently studying through Code + . Follow me through my Coding journey as i learn and develop a new set of skills, showcasing as a progress.</h3>
 
-<h3><a href="https://codewithace-asher.github.io/portfolio.github.io/" target="_blank"><p align="centre">>>> Portfolio <<<</p></a></h3><br>
+<p align="left"> <a href="https://twitter.com/asher_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/asher_dev_?logo=twitter&style=for-the-badge" alt="asher_dev_" /></a> </p>
 
-![screenshot](https://github.com/codewithace-Asher/portfolio.github.io/blob/a87629f7b0e780aa43b11c338f00aa324d695017/codewithace-screenshot.jpg)<br><br>
+- ?? I’m currently working on [First Project - Static Front End Project #1](- showcasing HTML , CSS - Vector Trade School , showcasing skills i have learnt throughout my FX/Crypto Trading Career)
 
+- ?? I’m currently learning **Web Development. ( Fullstack Developer)**
 
----
+- ?? I’m currently working on [HG. Moko Web Page](Front End Dev Only)
 
- 
-- ðŸ”­ Iâ€™m currently working on My HTML and CSS skills, following with JS, Django, MySQL, Node JS.
-- ðŸŒ± Iâ€™m currently learning Web Development.
-- ðŸ‘¯ Iâ€™m looking for Web Development internship based out of New Zealand.
-- ðŸ¤” I'm looking for opportunities which help me to showcase as well as polish my skills throughout my coding journey.
+- ?? I’m currently working on **Custom Indicator via PineScript**
 
-<h2>Current Projects :</h2>
- 
- - First Project - Static Front End Project #1 - showcasing HTML , CSS - Vector Trade School , showcasing skills i have learnt throughout my FX/Crypto Trading Career
- - HG. Moko - Front End Dev Only
- - Custom Indicator via PineScript
- 
- <h1>Follow me On : </h1>
-Follow me on : <br><br>
-<a href="https://codepen.io/_AC3" target="blank">CodePen</a><br>
-<a href="https://github.com/codewithace-Asher" target="blank">Github</a><br>
-<a href="https://www.linkedin.com/in/codewithace-asher/" target="blank">Linkedin</a><br>
-<a href="https://twitter.com/asher_dev_" target="blank">Twitter</a><br>
- 
- <h3>Nga Mihi</h3>
- 
- <h2>@codewithace</h2>
+- ????? All of my projects are available at [https://codewithace-asher.github.io/portfolio.github.io/](https://codewithace-asher.github.io/portfolio.github.io/)
+
+- ?? I’m looking for [opportunities which help me to showcase as well as polish my skills throughout my coding journey.](opportunities which help me to showcase as well as polish my skills throughout my coding journey.)
+
+- ?? I’m looking for **Web Development internship based out of New Zealand.**
+
+- ?? How to reach me **asher.dev@protonmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/_ac3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/_ac3" height="30" width="40" /></a>
+<a href="https://twitter.com/asher_dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asher_dev_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/codewithace-asher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/codewithace-asher/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
