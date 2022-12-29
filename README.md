@@ -1,7 +1,7 @@
 <h1 align="center">Kia Ora , I'm codewithace - (Asher)</h1>
 <h3 align="center">I am a aspring Web Developer, currently studying through Code + . Follow me through my Coding journey as i Learn and Develop a new set of skills, showcasing as a progress.</h3>
 
-<p align="left"> <a href="https://twitter.com/asher_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/asher_dev_?logo=twitter&style=for-the-badge" alt="asher_dev_" /></a> </p>
+<p align="center"> <a href="https://twitter.com/asher_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/asher_dev_?logo=twitter&style=for-the-badge" alt="asher_dev_" /></a> </p>
 
 - I’m currently working on [First Project - Static Front End Project #1](showcasing HTML , CSS - Vector Trade School , showcasing skills i have learnt throughout my FX/Crypto Trading Career)
 
@@ -33,14 +33,14 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithace-asher&show_icons=true&locale=en&layout=compact" alt="codewithace-asher" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithace-asher&show_icons=true&locale=en&layout=compact" alt="codewithace-asher" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithace-asher&show_icons=true&locale=en" alt="codewithace-asher" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithace-asher&show_icons=true&locale=en" alt="codewithace-asher" /></p>
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithace-asher&" alt="codewithace-asher" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithace-asher&" alt="codewithace-asher" /></p>
 
 ---
