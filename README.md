@@ -24,7 +24,7 @@
  - First Project - Static Front End Project #1 - showcasing HTML , CSS - Vector Trade School , showcasing skills i have learnt throughout my FX/Crypto Trading Career
  
  <h1>Follow me On : </h1>
-Follow me on : <br>
+Follow me on : <br><br>
 <a href="https://codepen.io/_AC3" target="blank">CodePen</a><br>
 <a href="https://github.com/codewithace-Asher" target="blank">Github</a><br>
 <a href="https://www.linkedin.com/in/codewithace-asher/" target="blank">Linkedin</a><br>
