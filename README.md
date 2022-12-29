@@ -1,4 +1,4 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)]
+![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)
 <h1 align="center">Kia Ora , I'm codewithace - (Asher)</h1>
 <h3 align="center">I am a aspring Web Developer, currently studying through Code + . Follow me through my Coding journey as i Learn and Develop a new set of skills, showcasing as a progress.</h3>
 
