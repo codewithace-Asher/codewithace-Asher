@@ -3,21 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/asher_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/asher_dev_?logo=twitter&style=for-the-badge" alt="asher_dev_" /></a> </p>
 
-- ?? I知 currently working on [First Project - Static Front End Project #1](- showcasing HTML , CSS - Vector Trade School , showcasing skills i have learnt throughout my FX/Crypto Trading Career)
+- I知 currently working on [First Project - Static Front End Project #1](- showcasing HTML , CSS - Vector Trade School , showcasing skills i have learnt throughout my FX/Crypto Trading Career)
 
-- ?? I知 currently learning **Web Development. ( Fullstack Developer)**
+- I知 currently learning **Web Development. ( Fullstack Developer)**
 
-- ?? I知 currently working on [HG. Moko Web Page](Front End Dev Only)
+- Check out my **Custom Indicator via PineScript**
 
-- ?? I知 currently working on **Custom Indicator via PineScript**
+- All of my projects are available at [https://codewithace-asher.github.io/portfolio.github.io/](https://codewithace-asher.github.io/portfolio.github.io/)
 
-- ????? All of my projects are available at [https://codewithace-asher.github.io/portfolio.github.io/](https://codewithace-asher.github.io/portfolio.github.io/)
+- I知 looking for **opportunities which help me to showcase as well as polish my skills throughout my coding journey.**
 
-- ?? I知 looking for [opportunities which help me to showcase as well as polish my skills throughout my coding journey.](opportunities which help me to showcase as well as polish my skills throughout my coding journey.)
+- I知 looking for **Web Development internship based out of New Zealand.**
 
-- ?? I知 looking for **Web Development internship based out of New Zealand.**
-
-- ?? How to reach me **asher.dev@protonmail.com**
+- How to reach me **asher.dev@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
