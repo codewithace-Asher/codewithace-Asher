@@ -5,9 +5,9 @@
 <p align="center"> <a href="https://twitter.com/asher_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/asher_dev_?logo=twitter&style=for-the-badge" alt="asher_dev_" /></a> </p>
 
 <h3 align="center">I’m Currently Working On :</h3>
-<p align="center"><a href="https://codewithace-asher.github.io/static-front-end-project/"> Vector Trade School </a> - Static Front End Project #1<br>(showcasing HTML , CSS - Vector Trade School , showcasing skills i have learnt throughout my FX/Crypto Trading Career)</p>
+<p align="center"><a href="https://codewithace-asher.github.io/static-front-end-project/"> Vector Trade School </a> - Static Front End Project #1<br>(showcasing HTML , CSS -, showcasing skills i have learnt throughout my FX/Crypto Trading Career)</p>
 
-<p align="center">Currently learning **Web Development. ( Code +)**
+<p align="center">Currently learning Web Development through Code +
 
 <p align="center"><h3 align="center">Latest Project:</h3></p> <p align="center"><a href="https://github.com/codewithace-Asher/trading-view-pinescript-indicator">----> Custom Indicator via PineScript <----</a></p>
 
