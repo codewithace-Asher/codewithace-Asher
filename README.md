@@ -8,7 +8,7 @@
 
 - I’m currently learning **Web Development. ( Fullstack Developer)**
 
-- Check out my **Custom Indicator via PineScript**
+- Check out my <p align="center"><a href="https://github.com/codewithace-Asher/trading-view-pinescript-indicator">----> **Custom Indicator via PineScript** <----</a></p>
 
 - My projects :
 
