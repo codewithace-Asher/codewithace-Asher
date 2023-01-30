@@ -10,7 +10,12 @@
 
 - Check out my **Custom Indicator via PineScript**
 
-- All of my projects are available at [https://codewithace-asher.github.io/portfolio.github.io/](https://codewithace-asher.github.io/portfolio.github.io/)
+- My projects :
+
+<p align="center"><a href="https://codewithace-asher.github.io/static-front-end-project/">----> Vector Trade School <----</a></p>
+	
+<p align="center"><a href="https://codewithace-asher.github.io/in-movement-pt/">----> In Movement P.T <----</a></p>
+	
 
 - I’m looking for **opportunities which help me to showcase as well as polish my skills throughout my coding journey.**
 
