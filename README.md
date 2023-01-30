@@ -18,9 +18,9 @@
 <p align="center"><a href="https://codewithace-asher.github.io/in-movement-pt/">----> In Movement P.T <----</a></p>
 	
 
-<h3 align="center">I知 looking for :</h3><p align="center"Opportunities which help me to showcase as well as polish my skills throughout my Coding Journey.</p>
+<h3 align="center">I知 looking for :</h3><p align="center">Opportunities which help me to showcase as well as polish my skills throughout my Coding Journey.</p>
 
-<h3 align="center">I知 looking for :</h3><p align="center"Web Development internship based out of <a href="https://www.google.com/maps/place/New+Zealand/@-40.9150786,169.2271308,6.25z/data=!4m5!3m4!1s0x6d2c200e17779687:0xb1d618e2756a4733!8m2!3d-40.900557!4d174.885971?hl=en">New Zealand</a></p>
+<h3 align="center">I知 looking for :</h3><p align="center">Web Development internship based out of <a href="https://www.google.com/maps/place/New+Zealand/@-40.9150786,169.2271308,6.25z/data=!4m5!3m4!1s0x6d2c200e17779687:0xb1d618e2756a4733!8m2!3d-40.900557!4d174.885971?hl=en">New Zealand</a></p>
 
 <h3 align="center">Reach me via: <a href="https://twitter.com/asher_dev_">Twitter</a></h3>
 
