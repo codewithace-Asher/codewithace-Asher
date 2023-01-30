@@ -21,7 +21,7 @@
 
 - I’m looking for **Web Development internship based out of New Zealand.**
 
-- How to reach me via <a href="https://twitter.com/asher_dev_">Twitter<----</a>
+- How to reach me via <a href="https://twitter.com/asher_dev_">Twitter</a>
 
 ---
 
