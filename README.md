@@ -8,9 +8,9 @@
 
 - I’m currently learning **Web Development. ( Fullstack Developer)**
 
-<p align="center"><h3>Latest Project:</h3></p> <p align="center"><a href="https://github.com/codewithace-Asher/trading-view-pinescript-indicator">----> **Custom Indicator via PineScript** <----</a></p>
+<p align="center"><h3 align="center">Latest Project:</h3></p> <p align="center"><a href="https://github.com/codewithace-Asher/trading-view-pinescript-indicator">----> **Custom Indicator via PineScript** <----</a></p>
 
-<p align="center"><h3>My projects :</h3></p>
+<p align="center"><h3 align="center">My projects :</h3></p>
 
 <p align="center"><a href="https://codewithace-asher.github.io/static-front-end-project/">----> Vector Trade School <----</a></p>
 	
